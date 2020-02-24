@@ -1,0 +1,9 @@
+p{
+    color: gray;
+}
+.bye-now-button{
+    background-color: black;
+    color: white;
+    border: black;
+    border-radius: 5px;
+}
