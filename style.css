@@ -7,3 +7,42 @@ p{
     border: black;
     border-radius: 5px;
 }
+.smartphone{
+    margin-bottom: 100px;
+}
+.laptop{
+    margin-bottom: 100px;
+
+}
+.card{
+    border-radius: 10px;
+}
+.card-head{
+    padding-bottom: 10px;
+}
+.see-all{
+    text-align: right;
+    
+    color: #FFA008;
+}
+.card-body{
+    text-align: center;
+}
+h3{
+    
+    text-decoration: underline yellow;
+    text-decoration-thickness:5px ;
+}
+.category p{
+    color: black;
+}
+.category img{
+    width:100px;
+}
+.categories{
+    text-align: center;
+    padding-top: 100px;
+    border-radius: 10px;
+    
+    
+}
