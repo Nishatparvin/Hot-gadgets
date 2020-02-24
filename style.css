@@ -29,10 +29,10 @@ p{
     text-align: center;
 }
 h3{
-    
     text-decoration: underline yellow;
     text-decoration-thickness:5px ;
 }
+
 .category p{
     color: black;
 }
@@ -41,8 +41,5 @@ h3{
 }
 .categories{
     text-align: center;
-    padding-top: 100px;
-    border-radius: 10px;
-    
-    
+    padding-top: 100px;  
 }
